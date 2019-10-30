@@ -19,5 +19,4 @@
 `$ git push origin --tags`
 
 **Delete tags**  
-`$ git push --delete origin tagname
-$ git push --delete origin v1.0.0`
+`$ git push --delete origin v1.0.0`
